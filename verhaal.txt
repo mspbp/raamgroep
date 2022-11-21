@@ -43,5 +43,13 @@ kop 1:
 kop 2:
 
 kop 3: 
+Mijn inspiratie over de draak is een beetje op.
+Dus hier staat eigenlijk alleen maar onzin
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Integer a massa eget metus vulputate convallis nec ac ante. 
+Donec non nisi eget eros malesuada tristique ac eget dui. 
+Pellentesque ligula mauris, sollicitudin sed elit eget, ornare placerat diam. 
+In nec elementum nulla, sed vestibulum dui. 
+Proin ac dictum urna. Curabitur.
 
 kop 4: 
